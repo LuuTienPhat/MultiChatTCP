@@ -82,7 +82,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ClientList.cs" />
+    <Compile Include="models\ClientList.cs" />
     <Compile Include="views\InfoForm.cs">
       <SubType>Form</SubType>
     </Compile>
